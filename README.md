@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/aurda012-devcontext-badge.png)](https://mseep.ai/app/aurda012-devcontext)
+
 # DevContext: Autonomous Context Awareness Model-Context-Protocol (MCP) Server
 
 <p align="center">
